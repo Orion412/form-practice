@@ -1,0 +1,11 @@
+body {
+    padding: 10px;
+}
+
+input, label {
+    display: flex;
+}
+
+div {
+    margin: 15px 0;
+}
